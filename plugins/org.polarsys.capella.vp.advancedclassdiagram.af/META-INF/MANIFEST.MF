@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.polarsys.capella.vp.advancedclassdiagram.af
+Bundle-SymbolicName: org.polarsys.capella.vp.advancedclassdiagram.af;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.polarsys.kitalpha.ad.viewpoint.ui,
+ org.polarsys.capella.vp.advancedclassdiagram.design
+

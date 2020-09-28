@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ASCII"?>
+<vp:Viewpoint xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sirius="http://www.polarsys.org/kitalpha/ad/sirius/1.0.0" xmlns:vp="http://www.polarsys.org/kitalpha/ad/viewpoint/1.0.0" name="Advanced Class Diagram" id="org.polarsys.capella.vp.advancedclassdiagram" vpid="_XuJa0A6GEempMZGjN1HbAg" version="1.0.0.qualifier">
+  <representation>
+    <representations xsi:type="sirius:SiriusRepresentation">
+      <odesign href="../../org.polarsys.capella.vp.advancedclassdiagram.design/description/advancedClassDiagram.odesign#/"/>
+    </representations>
+  </representation>
+</vp:Viewpoint>
